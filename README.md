@@ -1,3 +1,20 @@
+# Temas
+- Cambios de pantalla
+- Manejo de variables
+- Envio de datos entre actividades
+- Almacenamiento de datos
+- Mensajes emergentes
+- Archivos string
+- Funciones
+- Diseno
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # Cambios de pantalla
 
 ### Activity code
