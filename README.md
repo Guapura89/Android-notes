@@ -7,7 +7,13 @@
         Intent sig = new Intent(this,secondView.class);
         startActivity(sig);
     }
+    
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # Manejo de variables
@@ -32,7 +38,11 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Envio de datos entre activity
 
@@ -41,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://user-images.githubusercontent.com/74383095/192413381-60201d66-49ba-4223-b220-428bfbf5e665.png)
 
 
-### ACtivity 1 code
+### Activity 1 code
 
 ```bach
 public class MainActivity extends AppCompatActivity {
@@ -116,7 +126,11 @@ public class MainActivity2 extends AppCompatActivity {
 
 ```
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # Almacenamiento de datos con sharedpreferences
@@ -181,6 +195,11 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Mensajes emergentes (Toast)
 
@@ -188,7 +207,11 @@ public class MainActivity extends AppCompatActivity {
 Toast.makeText(this, "Contact saved", Toast.LENGTH_SHORT).show();
 
 ```
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Artchivos string
 
